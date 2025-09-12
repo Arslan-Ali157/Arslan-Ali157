@@ -1,12 +1,40 @@
 # 💫 About Me:
-Hi, I’m Arslan Ali, a Computer Science student (7th Semester) at Sukkur IBA University with a passion for building scalable applications, solving real-world problems, and exploring emerging technologies.<br>🔹 Core Skills<br>Programming: C++, Java, JavaScript (ES6+)<br>Web Development: HTML5, CSS3, React.js, Node.js (learning), Redux (basics)<br>Databases: MongoDB (beginner), SQL fundamentals<br>Software Tools: Git/GitHub, VS Code, MS Office (Word, Excel, PowerPoint)<br>🔹 Other Skills<br>Strong problem-solving & debugging abilities<br>Excellent communication & teamwork<br>Typing & shorthand proficiency<br>🔹 Current Focus<br>Exploring Artificial Intelligence, Open Source Contributions, and Full-Stack Development, while preparing for my Master’s in Computer Science abroad. My long-term goal is to become a skilled software engineer & researcher, contributing to impactful projects in AI and modern software systems.
-📫 Email: arslanalibohio.bscsf22@iba-suk.edu.pk  
-🔗 [LinkedIn](https://www.linkedin.com/in/arslan-ali-bohio-a86b83353/)  
+Hi, I’m **Arslan Ali**, a Computer Science student (7th Semester) at **Sukkur IBA University** with a passion for building scalable applications, solving real-world problems, and exploring emerging technologies.
+
+---
+
+## 🔹 Core Skills
+- **Programming:** C++, Java, JavaScript (ES6+), Python (for AI/ML & Deep Learning)  
+- **Web Development:** HTML5, CSS3, React.js, Node.js (learning), Redux (basics)  
+- **Databases:** MongoDB (beginner), SQL fundamentals  
+- **AI & Data Science:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow/Keras), Data Analysis (Pandas, NumPy)  
+- **Software Tools:** Git/GitHub, VS Code, Jupyter/Colab, MS Office (Word, Excel, PowerPoint)  
+
+---
+
+## 🔹 Other Skills
+- Strong problem-solving & debugging abilities  
+- Excellent communication & teamwork  
+- Typing & shorthand proficiency  
+
+---
+
+## 🔹 Current Focus
+Exploring **Artificial Intelligence (AI)**, **Machine Learning**, and **Deep Learning**, while also contributing to open-source projects and advancing in **Full-Stack Development**.  
+
+I’m also preparing for my **Master’s in Computer Science abroad**, with a long-term goal of becoming a skilled **software engineer & researcher**, contributing to impactful projects in **AI and modern software systems**.  
+
+📫 **Email:** arslanalibohio.bscsf22@iba-suk.edu.pk  
+🔗 **LinkedIn:** [Arslan Ali Bohio](https://www.linkedin.com/in/arslan-ali-bohio-a86b83353/)  
+
+---
+
 ## 📚 Currently Learning
 - React & Redux  
 - MongoDB & Node.js  
-- Basics of AI & Machine Learning  
+- Artificial Intelligence & Machine Learning  
 - Deep Learning & Neural Networks  
+- Advanced Data Analysis with Python  
 
 
 
