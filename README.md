@@ -24,8 +24,12 @@ Exploring **Artificial Intelligence (AI)**, **Machine Learning**, and **Deep Lea
 
 I’m also preparing for my **Master’s in Computer Science abroad**, with a long-term goal of becoming a skilled **software engineer & researcher**, contributing to impactful projects in **AI and modern software systems**.  
 
-📫 **Email:** arslanalibohio.bscsf22@iba-suk.edu.pk  
-🔗 **LinkedIn:** [Arslan Ali Bohio](https://www.linkedin.com/in/arslan-ali-bohio-a86b83353/)  
+---
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arslan%20Ali%20Bohio-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-ali-bohio-a86b83353/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Arslan--Ali157-black?logo=github)](https://github.com/Arslan-Ali157)  
+[![Email](https://img.shields.io/badge/Email-arslanalibohio.bscsf22%40iba--suk.edu.pk-red?logo=gmail&logoColor=white)](mailto:arslanalibohio.bscsf22@iba-suk.edu.pk)  
 
 ---
 
