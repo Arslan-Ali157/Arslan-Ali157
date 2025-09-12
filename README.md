@@ -15,7 +15,16 @@ Hi, I’m **Arslan Ali**, a Computer Science student (7th Semester) at **Sukkur 
 ## 🔹 Other Skills
 - Strong problem-solving & debugging abilities  
 - Excellent communication & teamwork  
-- Typing & shorthand proficiency  
+- Typing & shorthand proficiency
+
+---
+
+## 📊 GitHub Stats
+![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arslan-Ali157&show_icons=true&theme=tokyonight)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-Ali157&layout=compact&theme=tokyonight)
+
 
 ---
 
