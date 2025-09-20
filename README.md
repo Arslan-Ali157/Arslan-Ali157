@@ -3,12 +3,29 @@ Hi, I’m **Arslan Ali**, a Computer Science student (7th Semester) at **Sukkur 
 
 ---
 
-## 🔹 Core Skills
-- **Programming:** C++, Java, JavaScript (ES6+), Python (for AI/ML & Deep Learning)  
-- **Web Development:** HTML5, CSS3, React.js, Node.js (learning), Redux (basics)  
-- **Databases:** MongoDB (beginner), SQL fundamentals  
-- **AI & Data Science:** Machine Learning (Scikit-learn), Deep Learning (TensorFlow/Keras), Data Analysis (Pandas, NumPy)  
-- **Software Tools:** Git/GitHub, VS Code, Jupyter/Colab, MS Office (Word, Excel, PowerPoint)  
+## 💻 Core Skills
+
+### 🖥️ Programming
+- C++, Java, JavaScript (ES6+), Python (AI/ML & Deep Learning)
+
+### 🌐 Web Development
+- HTML5, CSS3, React.js, Node.js, Redux
+
+### 🗄️ Databases
+- MongoDB, SQL
+
+### 🤖 AI, ML & Deep Learning
+- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation (Scikit-learn)
+- **Deep Learning:** ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), RNN (Recurrent Neural Networks), Transfer Learning, Image Classification
+- **Data Analysis:** Pandas, NumPy, Data Cleaning & Visualization (Matplotlib)
+
+### ☁️ Cloud Computing
+- AWS Services: EC2, S3, IAM, VPC
+- Cloud Concepts: IaaS, PaaS, SaaS, Public/Private/Hybrid Cloud
+
+### 🛠️ Tools & Platforms
+- Git/GitHub, VS Code, Jupyter/Colab, MS Office (Word, Excel, PowerPoint)
+
 
 ---
 
